@@ -1,3 +1,3 @@
 # yuukimaru130516.github.io
 
-test
+簡単なクイズゲームです。
